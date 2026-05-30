@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperdonnect",
+        "uuid": 2140296,
+        "checksum": "un1lrj"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
